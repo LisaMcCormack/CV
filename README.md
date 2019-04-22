@@ -1,25 +1,20 @@
-## Your Name
+## Lisa McCormack
 
-A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what you're looking for: what you would ideally be doing, with whom and in what environment.
+After completing a degree in English Literature,  I spent the next six years working in the finance departments of a multinational construction company, a local government body and a formula one racing team.  Whilst working full time I achieved part-qualified status with the Chartered Institute of Management Accountants.  
+
+Despite working in the glamourous and prestigious surroundings of McLaren, the idea of leaving England to move to a different country where I would have to build a new life seemed exponentially more exciting than following a career I didn't enjoy.  Teaching English and living abroad has taught me invaluable skills and led to enormous personal development where I gained a better understanding of myself and other people.  It has also provided me with the skills to find employment in France where I have been living for the past two years.
+
+I started learning to code in December 2018 and it has changed my life.  Coding gave me the mental challenge I was looking for and naturally became part of my daily routine.  It has proven to me that I am conscientious, determined and perceptive.  I bring a strong desire to learn and write code of excellent quality following best practices.  
 
 ## Skills
 
-#### This Skill
+#### Motivated
 
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
+I am always looking to gain mastery in fields as diverse as the art of good essay writing, accountancy, classrooom management and new computer languages.  I can be hard on myself, but this pushes me to be stronger faster.  I could have spent my 20s working in accountancy but I was bold enough to try something new and when I look back at what I have achieved in the past six years I feel proud.  
 
-- Experience
-- Achievements
-- Evidence
+#### Team Player
 
-#### Another Skill
-
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
-
-- I achieved A during my work at B (job, or otherwise)
-- I contributed to the growth of X while doing Y (job, or otherwise)
-- I built this, made this, broke this, fixed this, etc.
-- A link to some on-line evidence (blogs, videos, articles, etc.)
+From helping less experienced teachers in Japan to helping fellow cohorts at my coding bootcamp, I am a natural team player and want my colleagues and team members be the best people they can be.  I'm always willing to listen to and encourage people and genuinely have their best interests at heart.  
 
 ## Education
 
@@ -34,17 +29,27 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 - Ruby, Rails, JavaScript
 - RSpec, Jasmine
 
-#### Your University / College (start_date to end_date)
+#### Chartered Institute of Management Accountants 
 
-- Subject, any specialisms
-- Grade
-- Other cool stuff
+Diploma in Management Accounting issued June 2013
+
+#### Association of Accounting Technicians
+
+Level 4 Diploma in Accounting issued September 2011
+
+#### University of Hull (September 2004 - June 2007)
+
+English Literature BA(Hons) 2:1
 
 #### Any other qualifications
 
 ## Experience
 
-**Company Name** (start_date to end_date)    
-*Your job title*  
-**Company Name** (start_date to end_date)   
-*Your job title*  
+**Freelance English Tutor, Paris ** (January 2017 to January 2019)    
+
+**English Instructor, Tokyo ** (March 2014 to July 2016)   
+
+**Assistant Accountant, McLaren Group, UK ** (MONTH 2014 - July 2013)
+
+
+
