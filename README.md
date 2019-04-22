@@ -12,7 +12,7 @@ I started learning to code in December 2018 and it has changed my life.  Coding 
 
 I am always looking to gain mastery in fields as diverse as the art of good essay writing, accountancy, classrooom management and new computer languages.  I can be hard on myself, but this pushes me to be stronger faster.  I could have spent my 20s working in accountancy but I was bold enough to try something new and when I look back at what I have achieved in the past six years I feel proud.  
 
-#### Team Player
+#### A Team Player
 
 From helping less experienced teachers in Japan to helping fellow cohorts at my coding bootcamp, I am a natural team player and want my colleagues and team members be the best people they can be.  I'm always willing to listen to and encourage people and genuinely have their best interests at heart.  
 
