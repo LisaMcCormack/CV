@@ -2,7 +2,7 @@
 
 After completing a degree in English Literature,  I spent the next six years working in the finance departments of a multinational construction company, a local government body and a formula one racing team.  Whilst working full time I achieved part-qualified status with the Chartered Institute of Management Accountants.  
 
-Despite working in the glamourous and prestigious surroundings of McLaren, the idea of leaving England to move to a different country where I would have to build a new life seemed exponentially more exciting than following a career I felt didn't fully allow me to express my talents.  Teaching English and living abroad has taught me invaluable skills and led to enormous personal development where I gained a better understanding of myself and other people.  
+Despite working in the glamourous and prestigious surroundings of McLaren, the idea of leaving England to move to a different country where I would have to build a new life seemed exponentially more exciting than following a career I felt didn't fully allow me to express my talents.  Teaching English and living abroad has taught me invaluable skills and led to enormous personal development where I have gained a better understanding of myself and other people.  
 
 I started learning to code in December 2018 and it has changed my life.  Coding gave me the mental challenge I was looking for and naturally became part of my daily routine.  I bring a strong desire to learn and write code of excellent quality following best practices.  
 
