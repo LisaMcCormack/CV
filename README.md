@@ -10,7 +10,7 @@ I started learning to code in December 2018 and it has changed my life.  Coding 
 
 #### Driven to Improve
 
-I am a perfectionist, and this pushes me to be stronger faster.  I want to receive feedback and criticism so that I can work on areas of weakness.  
+I am a perfectionist, and this pushes me to be stronger faster.  I want to receive feedback and criticism so that I know where to make improvements.
 
 #### 
 
