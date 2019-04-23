@@ -8,9 +8,13 @@ I started learning to code in December 2018 and it has changed my life.  Coding 
 
 ## Skills
 
-#### Conscientious
+#### Driven to Improve
 
-I am always looking to gain mastery in fields as diverse as the art of good essay writing, accountancy, classrooom management and new computer languages.  I am a perfectionist, and this pushes me to be stronger faster.  I could have spent my 20s working in accountancy but I was bold enough to try something new and when I look back at what I have achieved in the past six years I feel proud.  
+I am a perfectionist, and this pushes me to be stronger faster.  I want to receive feedback and criticism so that I can work on areas of weakness.  
+
+#### 
+
+I could have spent my 20s working in accountancy but I was bold enough to try something new and when I look back at what I have achieved in the past six years I feel proud.  
 
 #### A Team Player
 
