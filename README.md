@@ -22,7 +22,7 @@ From helping less experienced teachers in Japan to helping fellow cohorts at my 
 
 ## Education
 
-#### Makers Academy (start_date to end_date)
+#### Makers Academy (April - July 2019)
 
 - Curious and passionate about code. [PROVIDE EVIDENCE]
 - Fast, independent learner [PROVIDE EVIDENCE]
