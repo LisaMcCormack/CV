@@ -7,7 +7,13 @@ A full stack junior developer looking for my first opportunity once my course at
 |Project| Description | Technology | 
 --------|-------------|------------|
 |Spacebook| The main focus of the Spacebook project was to work well as a team using Agile methodology as well as producing high quality code following best practices.  We received feedback from our coach who praised how well we documented the project and our flair for creativity. | Ruby on Rails, Rspec,  Capybara, HTML, Travis CI  Heroku, PSQL |
--------------------------------------------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------------------------------------
+Gilded Rose |  Solo project - I completed the famous Gilded Rose challenge in one day and it taught me a lot about how to go about approaching problem solving.  Makers has been invaluable for teaching students about the process - we should break down the problem into the smallest steps and do the simplest thing first.  It was also a challenge that showed the effectiveness of TDD; to pass the tests the refactored code had to behave the same way as the original code. | Ruby, Rspec |
+------------------------------------------------------------------------------------------------------------------------------
+MakersBnB | My first team project at Makers,  we built a minimalist AirBnb clone in 5 days.  It gave me good practise using databases, working to deadlines and ensure that we were meeting the requirements of the client.  This had to be done while working well as an Agile team. | Ruby, RSpec, Sinatra, Datamapper, PSQL, Capybara |
+------------------------------------------------------------------------------------------------------------------------------
+Rock, Paper, Scissors | The first solo project at Makers that I was really proud of.  It was a project that I refactored heavily and gave me good understanding of MVC.  It was also excellent practise in TDD and mocking.  | Ruby, Rspec, Sinatra, Capybara, CSS |
+-----------------------------------------------------------------------------------------------------------------------------
 
 ## Skills
 
