@@ -49,5 +49,20 @@ Ensured fixed asset and intangible asset schedules reflect correct closing balan
 Responsible for ensuring final month end profit and loss statement and balance sheet are submitted to the Group consolidator.
 Assisted auditors by putting together year end audit file.
 
+**Assistant Accoutant, The Coal Authority, UK ** (February 2010 - January 2011)
+
+Issued sales invoices, statements and chased debt.
+Provided cover for the purchase ledger controller.  
+Filed the monthly Construction Industry Scheme tax return.
+Calculated interest on security funds and provided valuation reports.
+Accruals and prepayments journals.
+
+**Finance and Administration Officer, Skanska, UK ** (August 2007 - February 2010)
+
+Paid subcontractor invoices.
+Co-managed small projects around the hospital – assisted with pricing, sending out quotes,
+organising job cards to engineers and ensured timely completion of all projects and correct
+invoicing to the Trust.
+Organised call out of subcontractors for repairs and maintenance.
 
 
