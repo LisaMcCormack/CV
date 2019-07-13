@@ -2,6 +2,16 @@
 
 A full stack junior developer looking for my first opportunity once my course at Makers Academy finishes in July 2019.  A firm convert to TDD and Agile methodologies, I have a passion for coding as well as a strong drive to be part of a high performing and closely aligned team.
 
+## Projects
+
+|Project| Description | Technology | 
+--------|-------------|------------|
+|Spacebook| The main focus of the Spacebook project was to work well as a team using Agile      | Ruby on Rails, Rspec,  |
+|         | methodology as well as producing high quality code following best practices.  My    |Capybara, HTML, Travis CI |
+|         | team succeeded on both counts and also showed a flair for creativity.  We received  |Heroku, PSQL,             |
+|         | feedback from our coach praised how well documented the process.                    |                           |
+------------------------------------------------------------------------------------------------------------------------------
+
 ## Skills
 
 #### Fast learner
