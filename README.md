@@ -6,10 +6,10 @@ A full stack junior developer looking for my first opportunity once my course at
 
 |Project| Description | Technology | 
 --------|-------------|------------|
-|Spacebook| The main focus of the Spacebook project was to work well as a team using Agile      | Ruby on Rails, Rspec,  |
-|         | methodology as well as producing high quality code following best practices.  My    |Capybara, HTML, Travis CI |
-|         | team succeeded on both counts and also showed a flair for creativity.  We received  |Heroku, PSQL,             |
-|         | feedback from our coach praised how well documented the process.                    |                           |
+|Spacebook| The main focus of the Spacebook project was to work well as a team using Agile      | Ruby on Rails, Rspec,     |
+          methodology as well as producing high quality code following best practices.  My        Capybara, HTML, Travis CI 
+        team succeeded on both counts and also showed a flair for creativity.  We received          Heroku, PSQL,             
+          feedback from our coach praised how well documented the process.                                              
 ------------------------------------------------------------------------------------------------------------------------------
 
 ## Skills
