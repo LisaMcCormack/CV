@@ -41,5 +41,13 @@ Level 4 Diploma in Accounting issued September 2011
 
 **Assistant Accountant, McLaren Group, UK ** (July 2011 - July 2013)
 
+Monitored costs of various projects with Head of Programs.
+Reviewed project milestones and sent out sales invoices on completion.
+Ensured month end processes are completed, including depreciation, prepayments, accruals and agreeing intercompany balances.
+Completed quarterly VAT returns and monthly foreign VAT returns.
+Ensured fixed asset and intangible asset schedules reflect correct closing balances and meet necessary audit guidelines.
+Responsible for ensuring final month end profit and loss statement and balance sheet are submitted to the Group consolidator.
+Assisted auditors by putting together year end audit file.
+
 
 
