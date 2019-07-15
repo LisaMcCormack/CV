@@ -10,6 +10,7 @@ A full stack junior developer looking for my first opportunity once my course at
 |<a href="https://github.com/LisaMcCormack/gilded_rose">Gilded Rose</a> |  Solo project - I completed the famous Gilded Rose challenge in one day and it taught me a lot about how to go about approaching problem solving.  Makers has been invaluable for teaching students about the process - we should break down the problem into the smallest steps and do the simplest thing first.  It was also a challenge that showed the effectiveness of TDD; to pass the tests the refactored code had to behave the same way as the original code. | Ruby, Rspec |
 |<a href="https://github.com/LisaMcCormack/MakersBnB">MakersBnB</a> | My first team project at Makers,  we built a minimalist AirBnb clone in 5 days.  It gave me good practise using databases, working to deadlines and ensure that we were meeting the requirements of the client.  This had to be done while working well as an Agile team. | Ruby, RSpec, Sinatra, Datamapper, PSQL, Capybara |
 |<a href="https://github.com/LisaMcCormack/rps-challenge">Rock, Paper, Scissors</a> | The first solo project at Makers that I was really proud of.  It was a project that I refactored heavily and gave me good understanding of MVC.  It was also excellent practise in TDD and mocking.  | Ruby, Rspec, Sinatra, Capybara, CSS |
+|<a href="https://github.com/LisaMcCormack/bank_tech_test">Bank tech test</a> | Solo project - I completed the bank tech test in one day to practise OO, design and TDD skills.  After reviewing and reflecting I was able to refactor the code.  | JavaScript, Jasmine |
 
 ## Skills
 
@@ -19,7 +20,12 @@ The biggest skill I have been gifted with at Makers is the ability to be a self-
 
 #### Teamwork
 
-I firm believer in the effectiveness of Agile, I enjoy being part of a team that collaborates and communicates closely.  My experience being a teacher has exposed me numerous times to large groups of different personalities and this means that I have a flexible approach to dealing with the variety of people that I work with and am quick to see the positive side.
+I firm believer in the effectiveness of Agile, I enjoy being part of a team that collaborates and communicates closely.  My experience being a teacher has given me insight into group dynamics and I have a flexible approach to dealing with co-workers and am quick to see the positive side.
+
+#### Problem Solving
+
+The ability to think analytically, perservere and take a problem and break it down into smaller solvable ones is the key to good software development.
+
 
 ## Education
 
