@@ -36,6 +36,7 @@ The ability to think analytically, perservere and take a problem and break it do
 - Agile/XP
 - Ruby, Rails, JavaScript
 - RSpec, Jasmine
+- Github
 
 #### Chartered Institute of Management Accountants 
 
