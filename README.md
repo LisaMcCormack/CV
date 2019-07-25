@@ -98,7 +98,7 @@ Organised call out of subcontractors for repairs and maintenance.
 
 💻Technology💻
 
-From Software developer YouTube channels to Medium blogs, I am an avid consumer of tech and the people who shape this industry.
+From software developer YouTube channels to Medium blogs, I am an avid consumer of tech and the people who shape this industry.
 
 👩🏻People, Teamwork, Agile👨🏿
 
