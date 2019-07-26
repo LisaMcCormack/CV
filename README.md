@@ -23,7 +23,7 @@ Our daily lives are filled with technology and it excites me that I could be wor
 
 #### Fast learner
 
-The biggest skill I have been gifted with at Makers is the ability to be a self-lead learner.  With my passion for tech, I am motivated to study and be language agnostic.  
+The biggest skill I have been gifted with at Makers is the ability to be a self-lead learner.  At Makers we were presented with new technologies every week and this required fast and effective thinking to stay on top of the game.  Changing careers from accountancy to teaching required a whole new set of skills and adaptability.  With my passion for tech, I am motivated to study and be language agnostic.  
 
 #### Teamwork
 
@@ -31,6 +31,7 @@ I firm believer in the effectiveness of Agile, I enjoy being part of a team that
 
 #### Problem Solving
 
+Test driven development requires you to take the problem, break it down and consider what the first step should be.  
 The ability to think analytically, perservere and take a problem and break it down into smaller solvable ones is the key to good software development.
 
 
