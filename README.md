@@ -1,5 +1,5 @@
 # Lisa McCormack
- <a href="https://github.com/LisaMcCormack/CV#Projects">Projects</a> | <a href="https://github.com/LisaMcCormack/CV#Skills">Skills</a> | <a href="https://github.com/LisaMcCormack/CV#Education">Education</a> | <a href="https://github.com/LisaMcCormack/CV#Experience">Experience</a> | <a href="https://github.com/LisaMcCormack/CV#Interests">Interests</a> | <a href="https://medium.com/search?q=lisa%20mccormack">Blog</a> | <a href="https://www.linkedin.com/in/lisa-mccormack-992981180/">linkedin</a>
+ <a href="https://github.com/LisaMcCormack/CV#Projects">Projects</a> | <a href="https://github.com/LisaMcCormack/CV#Skills">Skills</a> | <a href="https://github.com/LisaMcCormack/CV#Education">Education</a> | <a href="https://github.com/LisaMcCormack/CV#Experience">Experience</a> | <a href="https://github.com/LisaMcCormack/CV#Interests">Interests</a> | <a href="https://medium.com/@lisamccormack>Blog</a> | <a href="https://www.linkedin.com/in/lisa-mccormack-992981180/">linkedin</a>
 
 I am a full stack junior developer and a recent (July 2019) graduate of <a href="https://makers.tech/">Makers</a>. A firm convert to TDD and Agile methodologies, I have a passion for coding as well as a strong drive to be part of a high performing and closely aligned team.
 
