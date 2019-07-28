@@ -1,5 +1,5 @@
 # <h1 align= center> Lisa McCormack
-  <a href="https://github.com/LisaMcCormack/CV#Skills">Skills</a>
+  <a href="https://github.com/LisaMcCormack/CV#Skills">Skills</a> | <a href="https://github.com/LisaMcCormack/CV#Education">Education</a> |<a href="https://github.com/LisaMcCormack/CV#Experience">Experience</a> | <a href="https://github.com/LisaMcCormack/CV#Interests">Interests</a>
 
 A full stack junior developer and a firm convert to TDD and Agile methodologies, I have a passion for coding as well as a strong drive to be part of a high performing and closely aligned team.
 
