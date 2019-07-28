@@ -18,22 +18,26 @@ Our daily lives are filled with technology and it excites me that I could be wor
 |<a href="https://github.com/LisaMcCormack/gilded_rose">Gilded Rose</a> |  Solo project - I completed the famous Gilded Rose challenge in one day and it taught me a lot about how to go about approaching problem solving.  Makers has been invaluable for teaching students about the process - we should break down the problem into the smallest steps and do the simplest thing first.  It was also a challenge that showed the effectiveness of TDD; to pass the tests the refactored code had to behave the same way as the original code. | Ruby, Rspec |
 |<a href="https://github.com/LisaMcCormack/PowerOfTruth">Power Of Truth</a> | My final project at Makers,  we decided to take the difficulty level to the max by picking a tech stack we hadn't worked with before - React Native.  With React Native not being the most intuitive of frameworks, it challenged us all but in the end we were extremely proud of the app we produced. | React Native, Jest, Google News API |
 |<a href="https://github.com/LisaMcCormack/rps-challenge">Rock, Paper, Scissors</a> | The first solo project at Makers that I was really proud of.  It was a project that I refactored heavily and gave me good understanding of MVC.  It was also excellent practise in TDD and mocking.  | Ruby, Rspec, Sinatra, Capybara, CSS |
-|<a href="https://github.com/LisaMcCormack/bank_tech_test">Bank tech test</a> | Solo project - I completed the bank tech test in one day to practise OO, design and TDD skills.  After reviewing and reflecting I was able to refactor the code.  | JavaScript, Jasmine |
+|<a href="https://github.com/LisaMcCormack/bank_tech_test">Bank tech test</a> | Solo project - I completed the bank tech test in one day to practise OOD and TDD skills.  After reviewing and reflecting I was able to refactor the code.  | JavaScript, Jasmine |
 
 ## Skills
 
-#### Fast learner
+#### Fast learner and Passionate
 
 The biggest skill I have been gifted with at Makers is the ability to be a self-lead learner.  At Makers we were presented with new technologies every week and this required fast and effective thinking to stay on top of the game.  Changing careers from accountancy to teaching required a whole new set of skills and adaptability.  With my passion for tech, I am motivated to study and be language agnostic.  
 
-#### Teamwork
+#### Teamwork and Communication
 
-I firm believer in the effectiveness of Agile, I enjoy being part of a team that collaborates and communicates closely.  
+I firm believer in the effectiveness of Agile, I enjoy being part of a team that collaborates and communicates closely.  From being the head teacher in Japan to my first experience of working in an Agile team at Makers, I have worked in various contexts and this has honed my communication skills and made me more adaptable and effective at communicating.  I believe in communicating with honesty and courage to drive improvement.
 
 #### Problem Solving
 
 Test driven development requires you to take the problem, break it down and consider what the first step should be.  
 The ability to think analytically, perservere and take a problem and break it down into smaller solvable ones is the key to good software development.
+
+#### Time management
+
+I am extremely well organised, can prioritise my workload and am used to working to deadlines.  My background in accountancy and month end processes gave me a good understanding of time management and how any delay can impact other people.    
 
 
 ## Education
