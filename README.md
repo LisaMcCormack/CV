@@ -1,7 +1,7 @@
 # Lisa McCormack
  <a href="https://github.com/LisaMcCormack/CV#Projects">Projects</a> | <a href="https://github.com/LisaMcCormack/CV#Skills">Skills</a> | <a href="https://github.com/LisaMcCormack/CV#Education">Education</a> | <a href="https://github.com/LisaMcCormack/CV#Experience">Experience</a> | <a href="https://github.com/LisaMcCormack/CV#Interests">Interests</a> | <a href="https://medium.com/search?q=lisa%20mccormack">Blog</a> | <a href="https://www.linkedin.com/in/lisa-mccormack-992981180/">linkedin</a>
 
-A full stack junior developer and a firm convert to TDD and Agile methodologies, I have a passion for coding as well as a strong drive to be part of a high performing and closely aligned team.
+I am a full stack junior developer and a recent (July 2019) graduate of <a href="https://makers.tech/">Makers</a>. A firm convert to TDD and Agile methodologies, I have a passion for coding as well as a strong drive to be part of a high performing and closely aligned team.
 
 I studied English Literature at university because I enjoyed reading and wanted to be able to write finely crafted essays. After university I followed my mother's footsteps into the world of accountancy and became part qualified. Feeling like I had plenty of job experience but somewhat lacking in life experience, I decided that moving to a new country, picking up new skills and building a new life was more exciting than trying to advance in an industry I felt was not right for me. I taught English in Japan and then France and this lead to enormous amounts of personal development and I became a more confident and experienced individual.
 
