@@ -40,7 +40,7 @@ The ability to think analytically, perservere and take a problem and break it do
 #### Makers Academy (April - July 2019)
 
 
-- OOP, TDD, MVC, DDD
+- OOP, <a href="https://medium.com/@lisamccormack/tdd-f6480b3abbc7">TDD</a>, MVC, DDD
 - Agile/XP
 - Ruby, Rails, JavaScript
 - RSpec, Jasmine
