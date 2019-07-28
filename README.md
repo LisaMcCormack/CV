@@ -1,5 +1,5 @@
-# <h1 align= center> Lisa McCormack
-  <a href="https://github.com/LisaMcCormack/CV#Projects">Projects</a> | <a href="https://github.com/LisaMcCormack/CV#Skills">Skills</a> | <a href="https://github.com/LisaMcCormack/CV#Education">Education</a> | <a href="https://github.com/LisaMcCormack/CV#Experience">Experience</a> | <a href="https://github.com/LisaMcCormack/CV#Interests">Interests</a> | <a href="https://medium.com/me/stories/public">Blog</a> | <a href="https://www.linkedin.com/in/lisa-mccormack-992981180/">linkedin</a>
+# Lisa McCormack
+ <a href="https://github.com/LisaMcCormack/CV#Projects">Projects</a> | <a href="https://github.com/LisaMcCormack/CV#Skills">Skills</a> | <a href="https://github.com/LisaMcCormack/CV#Education">Education</a> | <a href="https://github.com/LisaMcCormack/CV#Experience">Experience</a> | <a href="https://github.com/LisaMcCormack/CV#Interests">Interests</a> | <a href="https://medium.com/search?q=lisa%20mccormack">Blog</a> | <a href="https://www.linkedin.com/in/lisa-mccormack-992981180/">linkedin</a>
 
 A full stack junior developer and a firm convert to TDD and Agile methodologies, I have a passion for coding as well as a strong drive to be part of a high performing and closely aligned team.
 
