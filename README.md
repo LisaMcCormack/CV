@@ -5,7 +5,7 @@ I am a full stack junior developer and a recent (July 2019) graduate of <a href=
 
 I studied English Literature at university because I enjoyed reading and wanted to be able to write finely crafted essays. After university I followed my mother's footsteps into the world of accountancy and became part qualified. Feeling like I had plenty of job experience but somewhat lacking in life experience, I decided that moving to a new country, picking up new skills and building a new life was more exciting than trying to advance in an industry I felt was not right for me. I taught English in Japan and then France and this lead to enormous amounts of personal development and I became a more confident and experienced individual.
 
-Our daily lives are filled with technology and it excites me that I could be working on an app that could be used by thousands if not millions of people. Technology helps solve problems and I enjoy finding solutions; how to build something, researching, talking about it with different people and being creative. 
+Our daily lives are filled with technology and it excites me that I could be working on an app that could be used by thousands if not millions of people. With software development I have found my <a href="https://medium.com/@lisamccormack/ikigai-e0ac8235bb87">Ikigai</a>.  Technology helps solve problems and I enjoy finding solutions; how to build something, researching, talking about it with different people and being creative. 
 
 
 
